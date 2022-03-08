@@ -1,0 +1,32 @@
+_repo: The-Growth-of-the-English-House-a-short-history-of-its-architectural-development-from-1100-to__67574
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gotch, J. Alfred (John Alfred)
+    alias: Gotch, John Alfred
+    birthdate: 1852
+    deathdate: 1942
+    gutenberg_agent_id: '45489'
+    url: http://www.gutenberg.org/2009/agents/45489
+    wikipedia: https://en.wikipedia.org/wiki/John_Alfred_Gotch
+description: ''
+gutenberg_issued: '2022-03-06'
+identifiers:
+  gutenberg: '67574'
+language: en
+pgterms:marc904: https://archive.org/details/growthofenglishh00gotciala
+pgterms:marc905: 20210122015451gotch
+pgterms:marc906: '1909'
+pgterms:marc907: GB
+production_note: MWS, Karin Spence and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/American Libraries.)
+publication_note: United Kingdom :B. T. Batsford,1909.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Growth of the English House: a short history of its architectural development
+  from 1100 to 1800'
+url: http://www.gutenberg.org/ebooks/67574
